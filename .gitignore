@@ -24,3 +24,12 @@ proguard/
 
 # Log Files
 *.log
+
+#security system
+*,security
+
+#bug system
+*,bug
+
+#main hub
+*,main
